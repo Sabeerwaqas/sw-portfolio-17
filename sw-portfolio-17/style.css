@@ -1,0 +1,120 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 20%;
+    height: 10%;
+}
+
+.navbar-nav {
+    margin-left: 20%;
+}
+
+.key {
+    margin-top: 5%;
+    text-align: center;
+}
+
+small {
+    text-align: center;
+    display: block;
+}
+
+.lorem {
+    text-align: justify;
+}
+
+.child {
+    background-color: lightgreen;
+    color: blue;
+    padding: 20px;
+}
+
+.child:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 5px 15px 15px black;
+}
+
+.container-1 {
+    margin-top: 5%;
+}
+
+.newest {
+    text-align: center;
+}
+
+.section {
+    margin-top: 5%;
+    background-color: lightskyblue;
+}
+
+.section-1 {
+    margin-top: 10%;
+}
+
+.doctor {
+    width: 50%;
+    margin-left: 20%;
+}
+
+.expert,
+.hello {
+    text-align: center;
+}
+
+.ipsum {
+    margin-top: 5%;
+}
+
+.section-2 {
+    margin-top: 5%;
+}
+
+.image-1 {
+    width: 100%;
+}
+
+.icons {
+    text-align: center;
+}
+
+.dolor {
+    margin-top: 15%;
+    color: white;
+    background-color: navy;
+}
+
+.blog {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.blog-image {
+    width: 100%;
+}
+
+.blog-para {
+    text-align: justify;
+    background-color: lightskyblue;
+}
+
+.blog-para:hover {
+    box-shadow: 10px 15px 15px navy;
+}
+
+footer {
+    margin-top: 5%;
+}
+
+ul {
+    margin-left: 30%;
+}
+
+.row-1 {
+    color: white;
+    background-color: navy;
+}
